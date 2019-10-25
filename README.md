@@ -4,8 +4,8 @@ Hey-o! I'm Nathan. I'm a Software Engineer who enjoys solving hard problems.
 I enjoy Linux, Emacs, C, Rust, and 80-col widths. Fighting games and beer are
 also super cool.
 
-https://github.com/nathansizemore
-nathanrsizemore@gmail.com
+* https://github.com/nathansizemore
+* nathanrsizemore@gmail.com
 
 ---
 
@@ -19,8 +19,7 @@ of each will stick with me forever. I like Linux because of its freedom,
 Emacs for the macros, C because it's simple enough to keep in your head
 but scary enough to make you think you ever could, Rust because it gives
 you C with npm but no need to RTFM, and finally 80-col widths because it's
-2019 but not everyone has a wide-screen display and people read code on a
-phone screen.
+2019 but not everyone has a wide-screen display and people read code on phones.
 
 ### Things I've Done
 
@@ -28,12 +27,9 @@ phone screen.
 
 https://www.kroger.com
 
-* Shopping List
-  * Full stack
+* Full stack development on Shopping List
 * Delivery integration with Instacart, Shipt, and Nuro.ai
-  * Backend only
 * Ship integration with Fed-Ex, USPS, etc...
-  * Backend only
 
 #### Moveo
 
