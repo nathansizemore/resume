@@ -14,7 +14,7 @@ too many languages and frameworks to count, but the pains and constraints
 of each will stick with me forever. I like Linux because of its freedom,
 Emacs for the macros, C because it's simple enough to keep in your head
 but scary enough to make you think you ever could, Rust because it gives
-you C with npm but no need to RTFM, and finally 80-col widths because it's
+you C with npm and no need to RTFM, and finally 80-col widths because it's
 2022 but not everyone has a wide-screen display and people sometimes read
 code on phones.
 
