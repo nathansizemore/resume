@@ -27,13 +27,13 @@ low latency networking to trying to use it for games on Android and OpenGL.
 
 ## Some Things I've Worked On
 
-### Kroger
+### Krogera
 
 https://www.kroger.com
 
 - Language initiative team to get Go adopted company wide.
 - Backend development integrating internal devliery systems along with 3rd parties like Instacart, Ocado, Shipt, Nuro.ai (Go, Java).
-- Many scaling problems, debugging, trickky solves that come with microservice architecture.
+- Many scaling/debugging issues related to microservices, back pressure, and circuit breakers.
 
 ### Moveo
 
