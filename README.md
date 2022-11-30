@@ -25,7 +25,7 @@ from writing that have made their way into AWS serverless VM layer(s) and into
 the reMarkable tablets firmware. I've done everything with the language from
 low latency networking to trying to use it for games on Android and OpenGL.
 
-## Things I've Done
+## Some Things I've Worked On
 
 ### Kroger
 
